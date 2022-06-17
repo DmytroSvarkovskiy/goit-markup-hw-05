@@ -287,13 +287,6 @@ img {
     cursor: pointer;
 }
 
-.modal-close-icon {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    fill: #000000;
-}
-
 .is-hidden {
     opacity: 0;
     visibility: hidden;
